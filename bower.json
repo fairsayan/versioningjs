@@ -1,0 +1,20 @@
+{
+  "name": "versioningjs",
+  "description": "library to manage data versioning on nodeJS and browsers",
+  "main": "index.js",
+  "authors": [
+    "Domenico Pontari <fairsayan@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "versioning"
+  ],
+  "homepage": "https://github.com/fairsayan/versioningjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
