@@ -1,0 +1,22 @@
+{
+  "name": "versioningjs",
+  "version": "1.0.0",
+  "description": "library to manage data versioning on nodeJS and browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairsayan/versioningjs.git"
+  },
+  "keywords": [
+    "versioning"
+  ],
+  "author": "Domenico Pontari <fairsayan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fairsayan/versioningjs/issues"
+  },
+  "homepage": "https://github.com/fairsayan/versioningjs#readme"
+}
