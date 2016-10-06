@@ -1,0 +1,30 @@
+{
+  "curly": false,
+  "eqeqeq": true,
+  "immed": true,
+  "esversion": 6,
+  "latedef": "nofunc",
+  "newcap": true,
+  "noarg": true,
+  "predef": ["-Promise"],
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "boss": true,
+  "eqnull": true,
+  "node": true,
+  "globals"   : {
+    /* MOCHA */
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "after"      : false,
+    "afterEach"  : false,
+    "angular"    : false,
+    "inject"     : false,
+    "expect"     : false,
+    "io"         : false,
+    "document"   : false  // browser DOM
+  }
+}

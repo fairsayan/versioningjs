@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/fairsayan/versioningjs/issues"
   },
-  "homepage": "https://github.com/fairsayan/versioningjs#readme"
+  "homepage": "https://github.com/fairsayan/versioningjs#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "^3.1.0"
+  }
 }
